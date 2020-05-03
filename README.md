@@ -1,2 +1,2 @@
 # Python-Calculator
-A calculator using Python only
+A calculator using Python with regex
